@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: "fas fa-ambulance"
 
   portfolio:
     title: "Portfolio"
@@ -48,91 +48,91 @@ en: &DEFAULT_EN
         year: "2019.12.26 ~ 2020.01.22"
         desc: "- 최우수상 수상<br>(아주대학교 산학협력단장 겸 LINC+<br>사업단장 임재성)\n
         - 마크앤컴퍼니 홍경표 CEO로부터<br>창업 멘토링 진행함"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/1.png
         alt:
       - title: "Mass Challenge"
         year: "2020.02.19 ~ 2020.03.11"
         desc: "- 향후 해외시장에 진입할 때<br>도움이 될 경험을 함\n
         - 아주대학교 김경호 교수 및 많은 교수진과 멘토링 진행함"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/2.png
         alt:
       - title: "특허 출원"
         year: "2020.03.23"
         desc: "- IoT를 기반으로 한 스마트 안전벨트 커넥터 출원 (제 10-2020-0034858 호)\n
         - IoT를 기반으로 한 스마트 안전벨트 시스템 출원 (제 10-2020-0034860 호)"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/3.png
         alt: image alt text
       - title: "아주대학교 창업동아리 합격"
         year: "2020.04.06 ~ 2020.05.01"
         desc: "- 아주대학교 창업동아리 합격함"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/4.png
         alt:
       - title: "아주대학교 창업동아리 활동"
         year: "2020.05.01 ~ 2021.02.22"
         desc: "- 아주대학교 창업동아리로 약 1년간 활동함\n
         - 약 $2,500 투자 유치함"
-        image: 
+        image: assets/img/timeline/5.png
         alt:
       - title: "부산 BEXCO 창업박람회"
         year: "2020.05.29 ~ 2021.05.30"
         desc: "- 부산 BEXCO 창업박람회 참여함\n
         - 많은 사업체로부터 판매 전략 및 기술 창업 등 다양한 전략을 배움"
-        image: 
+        image: assets/img/timeline/6.png
         alt:
       - title: "UNIVERSITY STARTUP WORLD CUP Kickstart Global Program"
         year: "2020.06.03 ~ 2020.06.12"
         desc: "- 한국 지역 선발 예선 참여함<br>(총 45개 대학에서 127팀 참여 규모)\n
         - 한국대표 3팀에 최종 선발됨"
-        image: 
+        image: assets/img/timeline/7.png
         alt:
       - title: "영국 ACCELERATING"
         year: "2020.06.13 ~ 2020.10.12"
         desc: "- 영국 엑셀러레이팅 진행함\n
         - 매주 약 2회씩 Kickstart Asia 박현규 대표 및 다수의 엑셀러레이터와 멘토링<br> 진행함\n
         - 3명의 영국 엑셀러레이터 앞에서 영어<br>발표하고 마무리함"
-        image: 
+        image: assets/img/timeline/8.png
         alt:
       - title: "2020 아주대학교 제4회 LINC+ 창업아이디어경진대회"
         year: "2020.06.14 ~ 2020.06.26"
         desc: "- 장려상 수상<br>(아주대학교 창업교육센터장 이성주)"
-        image: 
+        image: assets/img/timeline/9.png
         alt:
       - title: "2020 청년 아이디어톤"
         year: "2020.07.10 ~ 2020.07.26"
         desc: "- 교통안전 문제 해결을 위한 IT 기술 부문<br>최우수상 수상<br>(수원시의회 의장 조석환)"
-        image: 
+        image: assets/img/timeline/10.png
         alt:
       - title: "변호사 멘토링"
         year: "2020.09.22"
         desc: "- 특허법인 서한 법률사무소 변호사와<br>멘토링 진행함"
-        image: 
+        image: assets/img/timeline/11.png
         alt:
       - title: "2020 AJOU Valley Festa"
         year: "2020.11.24"
         desc: "- 온라인 전시관 작품 전시"
-        image: 
+        image: assets/img/timeline/12.png
         alt:
       - title: "개발 시작"
         year: "2020.12.16"
         desc: "- 해당 날짜를 기점으로 하드웨어 및<br>소프트웨어 개발 진행함"
-        image: 
+        image: assets/img/timeline/13.png
         alt:
       - title: "사업자 등록"
         year: "2021.02.12"
         desc: "- 스탠티(Stanty) 사업자 등록<br>(정보통신업, 컴퓨터 시스템 통합 자문 및 구축 서비스업)"
-        image: 
+        image: assets/img/timeline/14.png
         alt:
       - title: "테스트베드"
         year: "2021.06.07 ~ 2021.09.03"
         desc: "- 약 3개월 간 테스트베드 진행함\n
         - 약 200개의 제품을 통학 차량 15대에<br>설치함"
-        image: 
+        image: assets/img/timeline/15.png
         alt:
       - title: "특허 등록"
         year: "2022.01.26"
         desc: "- IoT를 기반으로 한 스마트 안전벨트 커넥터 특허 등록 (제 10-2357779 호)\n
         - IoT를 기반으로 한 스마트 안전벨트 시스템 특허 등록 (제 10-2357781 호)"
-        image: 
+        image: assets/img/timeline/16.png
         alt:
         align: right
     end: "Be Part <br> of Our <br> Story!"
