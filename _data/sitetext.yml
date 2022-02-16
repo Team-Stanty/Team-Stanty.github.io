@@ -100,18 +100,26 @@ en: &DEFAULT_EN
         role: "Software Developer"
         image: assets/img/team/500x500.jpg
         social:
+          - url: https://github.com/tabloni
+            icon: fab fa-twitter        
       - name: "DongHyuen Min"
         role: "Software Developer"
         image: assets/img/team/2.jpg
         social:
+          - url: https://github.com/mindongmindong
+            icon: fab fa-twitter        
       - name: "MinHo Lim"
         role: "Software Developer"
         image: assets/img/team/500x500.jpg
         social:
+          - url: https://github.com/Mincrohn
+            icon: fab fa-twitter        
       - name: "HyeunMin Lim"
         role: "Hardware Developer"
         image: assets/img/team/500x500.jpg
-        social:   
+        social:  
+          - url: https://twitter.com
+            icon: fab fa-twitter         
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
