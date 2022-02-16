@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "간편한 설치"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "기존 안전벨트 연결 방식을 본 뜬 디자인으로<br>간편한 설치 가능"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "원격 모니터링"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "승객의 안전벨트 착용 유무를 앱을 통해<br>실시간으로 확인 가능 "
         icon: fas fa-laptop
       - title: "빠른 후속 조치"
-        desc: "Your description here, full **Markdown** support"
+        desc: "사고 발생 시 안전벨트 커넥터의 센서가 반응해 자동으로 신고 가능"
         icon: fab fa-markdown
 
   portfolio:
