@@ -97,7 +97,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "ChangHyun Nam"
-        role: "Lead Designer"
+        role: "Software Developer"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -107,7 +107,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "DongHyuen Min"
-        role: "Lead Marketer"
+        role: "Software Developer"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -117,7 +117,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "MinHo Lim"
-        role: "Lead Developer"
+        role: "Software Developer"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -127,7 +127,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "HyeunMin Lim"
-        role: "Lead Developer"
+        role: "Hardware Developer"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
