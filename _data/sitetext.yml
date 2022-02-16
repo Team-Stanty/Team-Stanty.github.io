@@ -96,7 +96,7 @@ en: &DEFAULT_EN
     title: "Stanty TEAM"
     section: team
     people:
-      - name: "Kay Garland"
+      - name: "ChangHyun Nam"
         role: "Lead Designer"
         image: assets/img/team/500x500.jpg
         social:
@@ -106,7 +106,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
+      - name: "DongHyuen Min"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
@@ -116,7 +116,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "MinHo Lim"
         role: "Lead Developer"
         image: assets/img/team/500x500.jpg
         social:
@@ -126,7 +126,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Min Dong Hyun"
+      - name: "HyeunMin Lim"
         role: "Lead Developer"
         image: assets/img/team/500x500.jpg
         social:
