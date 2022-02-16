@@ -58,8 +58,8 @@ en: &DEFAULT_EN
         alt:
       - title: "특허 출원"
         year: "2020.03.23"
-        desc: "- IoT를 기반으로 한 스마트 안전벨트 커넥터 출원 (제 10-2020-0034858 호)\n
-        - IoT를 기반으로 한 스마트 안전벨트 시스템 출원 (제 10-2020-0034860 호)"
+        desc: "- IoT를 기반으로 한 스마트 안전벨트<br>커넥터 출원 (제 10-2020-0034858 호)\n
+        - IoT를 기반으로 한 스마트 안전벨트<br>시스템 출원 (제 10-2020-0034860 호)"
         image: assets/img/timeline/3.png
         alt: image alt text
       - title: "아주대학교 창업동아리 합격"
@@ -69,14 +69,14 @@ en: &DEFAULT_EN
         alt:
       - title: "아주대학교 창업동아리 활동"
         year: "2020.05.01 ~ 2021.02.22"
-        desc: "- 아주대학교 창업동아리로 약 1년간 활동함\n
+        desc: "- 아주대학교 창업동아리로 약 1년간<br>활동함\n
         - 약 $2,500 투자 유치함"
         image: assets/img/timeline/5.png
         alt:
       - title: "부산 BEXCO 창업박람회"
         year: "2020.05.29 ~ 2021.05.30"
         desc: "- 부산 BEXCO 창업박람회 참여함\n
-        - 많은 사업체로부터 판매 전략 및 기술 창업 등 다양한 전략을 배움"
+        - 많은 사업체로부터 판매 전략 및<br>기술 창업 등 다양한 전략을 배움"
         image: assets/img/timeline/6.png
         alt:
       - title: "UNIVERSITY STARTUP WORLD CUP Kickstart Global Program"
@@ -88,7 +88,7 @@ en: &DEFAULT_EN
       - title: "영국 ACCELERATING"
         year: "2020.06.13 ~ 2020.10.12"
         desc: "- 영국 엑셀러레이팅 진행함\n
-        - 매주 약 2회씩 Kickstart Asia 박현규 대표 및 다수의 엑셀러레이터와 멘토링<br> 진행함\n
+        - 매주 약 2회씩 킥스타트인베스트먼트<br>박현규 대표 및 다수의 엑셀러레이터와<br>멘토링 진행함\n
         - 3명의 영국 엑셀러레이터 앞에서 영어<br>발표하고 마무리함"
         image: assets/img/timeline/8.png
         alt:
@@ -130,8 +130,8 @@ en: &DEFAULT_EN
         alt:
       - title: "특허 등록"
         year: "2022.01.26"
-        desc: "- IoT를 기반으로 한 스마트 안전벨트 커넥터 특허 등록 (제 10-2357779 호)\n
-        - IoT를 기반으로 한 스마트 안전벨트 시스템 특허 등록 (제 10-2357781 호)"
+        desc: "- IoT를 기반으로 한 스마트 안전벨트<br>커넥터 특허 등록 (제 10-2357779 호)\n
+        - IoT를 기반으로 한 스마트 안전벨트<br>시스템 특허 등록 (제 10-2357781 호)"
         image: assets/img/timeline/16.png
         alt:
         align: right
