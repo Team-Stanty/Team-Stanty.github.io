@@ -18,18 +18,18 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Smart Seat Belt Connecter"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "간편한 설치"
+        desc: "기존 안전벨트 연결 방식을 본 뜬 디자인으로<br>간편한 설치 가능"
+        icon: fas fa-wrench #find more at https://fontawesome.com/icons
+      - title: "원격 모니터링"
+        desc: "승객의 안전벨트 착용 유무를 앱을 통해<br>실시간으로 확인 가능 "
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: "fas fa-ambulance"
+      - title: "빠른 후속 조치"
+        desc: "사고 발생 시 안전벨트 커넥터의 센서가 반응해 자동으로 신고 가능"
+        icon: fas fa-ambulance
 
   portfolio:
     title: "Portfolio"
@@ -140,7 +140,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Stanty는 사고로부터 빠른 조치와 안전의 기본적인 틀을 확립하기 위해 시작한 스타트업 지망팀입니다. 현재 Stanty는 스마트 안전벨트 시스템을 통해 교통수단 관련 사고를 해결하고자 하고 있습니다. <br> 미래에는 안전과 관련된 더 다양한 제품을 개발하여 새로운 안전의 패러다임을 열어가겠습니다."
     section: about
 
   clients:
