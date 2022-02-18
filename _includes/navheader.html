@@ -41,8 +41,14 @@
 	  {%- if site.data.sitetext[site.locale].header.text -%}
         <div class="intro-heading text-uppercase">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
 	  {%- endif -%}
-	  {%- if site.data.sitetext[site.locale].header.button -%}
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink }}" target="_blank">{{ site.data.sitetext[site.locale].header.button }}</a>
+	  {%- if site.data.sitetext[site.locale].header.button-1 -%}
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink-1 }}" target="_blank">{{ site.data.sitetext[site.locale].header.button-1 }}</a>
+	  {%- endif -%}
+    {%- if site.data.sitetext[site.locale].header.button-2 -%}
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink-2 }}" target="_blank">{{ site.data.sitetext[site.locale].header.button-2 }}</a>
+	  {%- endif -%}
+    {%- if site.data.sitetext[site.locale].header.button-3 -%}
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink-3 }}" target="_blank">{{ site.data.sitetext[site.locale].header.button-3 }}</a>
 	  {%- endif -%}
       </div>
     </div>
