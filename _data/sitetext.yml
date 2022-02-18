@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: 안전의 기준을 정의하다!
+    text: standard of safety
     button: Tell Me More
     buttonlink: "#services"
 
