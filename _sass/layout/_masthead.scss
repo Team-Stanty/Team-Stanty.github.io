@@ -24,8 +24,14 @@ header.masthead {
       margin-bottom: 25px;
       @include heading-font;
     }
+    a {
+      margin-left: 8px;
+      margin-right: 8px;
+      margin-bottom: 16px;
+    }
   }
 }
+
 @media (min-width: 768px) {
   header.masthead {
     .intro-text {
@@ -44,6 +50,11 @@ header.masthead {
         line-height: 75px;
         margin-bottom: 50px;
         @include heading-font;
+      }
+      a {
+        margin-left: 8px;
+        margin-right: 8px;
+        margin-bottom: 0px;
       }
     }
   }

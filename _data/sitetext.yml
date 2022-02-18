@@ -11,10 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: 안전의 기준을 정의하다!
+    text: standard of safety
+    button-1: github
+    buttonlink-1: "https://github.com/Team-Stanty/Team-Stanty.github.io"
+    button-2: gitbook
+    buttonlink-2: "https://github.com/Team-Stanty/Team-Stanty.github.io"
+    button-3: notion
+    buttonlink-3: "https://github.com/Team-Stanty/Team-Stanty.github.io"
+    
 
   services:
     title: "Services"
