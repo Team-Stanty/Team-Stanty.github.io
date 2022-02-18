@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: 안전의 기준을 정의하다!
     text: standard of safety
-    button: Tell Me More
-    buttonlink: "#services"
+    button: github
+    buttonlink: "https://github.com/Team-Stanty/Team-Stanty.github.io"
 
   services:
     title: "Services"
