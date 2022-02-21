@@ -5,8 +5,8 @@ caption: #what displays in the portfolio grid:
   thumbnail: https://place-hold.it/400x300
 
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: 2020 청년 아이디어톤
+subtitle: 2020.07.10 ~ 2020.07.26
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 ---
